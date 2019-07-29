@@ -1,0 +1,2 @@
+# MnistDocker
+Mnist for Docker
